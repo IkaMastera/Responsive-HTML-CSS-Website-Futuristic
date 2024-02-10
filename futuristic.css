@@ -245,3 +245,32 @@ h2.separator{
     color: #fff;
     background-color: #000;
 }
+
+.view-more{
+    margin: 10px 0 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.view-more button{
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background: #dfdcdc;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.view-more button:hover{
+    color: #fff;
+    background: #0f2182;
+}
+
+.sellers{
+    padding: 0 80px;
+}
+
+.sellers .item img{
+    width: 64px;
+}
