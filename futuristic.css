@@ -38,7 +38,7 @@ nav .links a:not(:last-child){
     margin-right: 20px;
 }
 
-.nav .login button{
+nav .login button{
     padding: 8px 14px;
     border: none;
     cursor: pointer;
